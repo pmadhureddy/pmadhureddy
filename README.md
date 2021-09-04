@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React and React Native**
 
-- 📫 How to reach me **@Madhusudhan1510, pmadhureddy1510@gmail.com**
+- 📫 How to reach me **pmadhureddy1510@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
