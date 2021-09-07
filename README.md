@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my company's project.**
 
-- 🌱 I’m currently learning **React Query, GraphQl**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 🤝 I’m looking for help with **backend**
 
