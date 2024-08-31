@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my company's project.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Devops**
 
 - 🤝 I’m looking for help with **backend**
 
