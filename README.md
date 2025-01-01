@@ -5,7 +5,7 @@
 
 - 🌱 Proficient in **HTML5, CSS3, Material UI, Ant Design, SCSS, JavaScript, and React.**
 
--   Knowledge on AWS, Jenkins, Docker, Kubernetes
+-   Experience on **AWS, Jenkins, Docker, Kubernetes**
 
 - 💬 Ask me about **React and React Native**
 
